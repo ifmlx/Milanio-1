@@ -11,7 +11,7 @@
 
  **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js enmap`**
 
- **4.** Fill in the parameters, RIGHT in `config.json`!
+ **4.** Fill in the parameters, RIGHT in `config.json`! (Recommand in `.env`)
 
  **5.** Take the `TOKEN` from [Developer Portal](https://discord.com/developers/applications/)!
 
